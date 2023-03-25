@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(253, 236, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: #fd7676;
+    padding: 1rem;
+}
+main h3{
+    background-color: #fd7676;
+    padding: 1rem;
+}
+main p
+{
+    padding: 1rem;
+    font-size: 1.1rem;
+   
+}
+
+.reasons{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-around;
+    font-size: 1.1rem;
+}
